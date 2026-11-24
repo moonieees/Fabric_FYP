@@ -1,0 +1,32 @@
+{
+  "project_name": "Fabric_FYP",
+  "crop_mode": "adaptive_variable_high_focus",
+  "raw_width_px": 1228,
+  "raw_height_px": 922,
+  "vignette_margin_x": 140,
+  "vignette_margin_y": 90,
+  "candidate_roi_sizes": [
+    [
+      850,
+      650
+    ],
+    [
+      750,
+      600
+    ],
+    [
+      650,
+      600
+    ],
+    [
+      600,
+      500
+    ],
+    [
+      500,
+      500
+    ]
+  ],
+  "min_focus_threshold": 5.0,
+  "median_filter_ksize_grade_b": 3
+}

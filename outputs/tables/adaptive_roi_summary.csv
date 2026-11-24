@@ -1,0 +1,11 @@
+fabric,qc_grade,roi_w,roi_h,image_count,mean_focus_score
+Cotton,A,600,500,1,18.43
+Cotton,A,850,650,27,12.89
+Cotton,B,600,500,17,61.18
+Cotton,B,750,600,1,83.53
+Cotton,B,850,650,19,33.26
+Polyester,A,600,500,19,31.77
+Polyester,A,850,650,5,22.74
+Polyester,B,500,500,1,39.91
+Polyester,B,600,500,36,65.38
+Polyester,B,850,650,4,37.44

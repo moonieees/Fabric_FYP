@@ -1,0 +1,11 @@
+fabric,setting,group_code,A,B,C,Eligible_A_B,Total_Images
+Cotton,Control,CC,5,0,0,5,5
+Cotton,Indoor,CI,15,0,0,15,15
+Cotton,Outdoor,C1,1,14,0,15,15
+Cotton,Outdoor,C2,6,9,0,15,15
+Cotton,Outdoor,C3,1,14,0,15,15
+Polyester,Control,CP,5,0,0,5,5
+Polyester,Indoor,PI,15,0,0,15,15
+Polyester,Outdoor,P1,0,15,0,15,15
+Polyester,Outdoor,P2,3,12,0,15,15
+Polyester,Outdoor,P3,1,14,0,15,15
